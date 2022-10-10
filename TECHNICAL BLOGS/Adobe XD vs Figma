@@ -1,0 +1,36 @@
+There are many design tools out already, and new ones are being released (what seems like) every day. Some examples from this year alone include: InVision Studio, Framer X, persP, and Lunacy to name a few.
+Most ‘big players’ in the design tool game, however, are Mac-exclusive.
+Windows users are left to twiddle their thumbs while Mac users enjoy the fantastic powers of the tools such as Sketch, Principle, and Framer.
+
+This has slowly been changing in the recent years with more and more tools coming out that support Windows, or are browser based. Two of these tools are Figma and Adobe XD.
+
+Since the advent of Adobe XD in 2016, Figma vs Adobe XD have been running against each other. 
+The rivalry wasn't fierce initially, with XD's early editions lacking several critical features, but that has improved in recent years. 
+The competition between the two softwares has now intensified, and it becomes harder to pick which one is best for you and your project.
+
+The main difference between Figma vs Adobe XD is the price. 
+While Figma is free for individual users, and you only pay if you want to have access to features like coworking, for Adobe XD you have to pay before using it.
+Figma’s pricing goes from free, to $12/15 USD per person for team plan (based on length of subscription), to $45 per person for enterprise plan.
+XD’s pricing goes from free to $9.99 for individual level. For business plan, it goes from free to $22.99.
+
+some highlights-
+Figma
+
+    Multiplayer - Any number of users can be logged in and edit a document at the same time;
+    Observation mode - You are able to mirror your teammates’ screen so you can see as they move around a document or draft. This is useful if you want to watch a client move through a prototype and see if there are any flaws;
+    Team libraries - You can build design systems for your own work that include reusable components, color schemes, and font styles, and also make those design systems available to your whole team so that everyone is working with the same elements;
+    Automatic save & sync - Any modifications to documents and design systems will be immediately saved and synced. If a change occurs while a teammate is working on a shared project, they will be notified, ensuring that all team members are up to date at all times. There will be no need for file uploads, downloads, or manual merges.
+
+Adobe XD
+
+    Coediting - There’s a collaborative "coediting" design beta capability as of November 2019, which works similarly to Figma's "multiplayer" feature. The only visible difference between the two right now is that on Adobe XD you don't see the live cursors of other designers working on the document;
+    Linked assets - When a document is saved to the cloud, its components and styles may be accessible through linking;
+    Creative Cloud libraries - You can organize and access assets through CC Libraries; this may be similar to Figma’s Team Libraries but the features to facilitate collaboration are not as good in XD.
+
+Figma
+
+    Uses frames that act as containers that represent viewports and design sub-elements such as buttons, content sections, navigation elements, amongst others. Frames have all the functionalities as the below artboards have, and they can also bring added functionalities to these elements, such as grids and auto-layout.
+
+Adobe XD
+
+    Uses artboards that also act as containers that represent viewports that only hold designs - e.g. a phone screen vs a laptop screen. While prototyping, you can link these artboards together to simulate the movement of a user across a site or app. While frames can do everything artboards do, XD’s artboards can’t do everything Figma’s frames can do.
