@@ -1,0 +1,21 @@
+We are on the cusp of a new era of computing, one in which digital information will be seamlessly integrated with the physical world around us. This new paradigm, called augmented reality (AR), is already starting to change the way we interact with technology.
+
+With AR, digital content is no longer confined to flat screens and can instead be projected onto the real world around us. This allows us to interact with digital information in a more natural and intuitive way.
+
+AR has the potential to radically change the way we interact with computing devices and will open up new possibilities for education, entertainment, and work.
+
+The technology is still in its early stages, but there are already a number of AR applications available on smartphone platforms such as ARKit and ARCore. In the future, AR is expected to become more widely available as dedicated AR headsets and glasses become available.
+
+So far, most AR applications have been limited to displaying simple images and text. However, the technology is rapidly evolving and soon we will be able to interact with digital content in a more natural and realistic way.
+
+In the future, AR will allow us to:
+
+-Access information on demand: We will be able to point our devices at objects in the real world and receive information about them instantly.
+
+-Enhance our surroundings: AR will allow us to personalize our environment and add digital content to it.
+
+-Interact with virtual objects: AR will enable us to interact with virtual objects as if they were real.
+
+-Create mixed reality experiences: AR will allow us to combine the virtual and real world to create new mixed reality experiences.
+
+The future of AR is an exciting one and the possibilities are endless. We are only just beginning to scratch the surface of what is possible with this technology.
