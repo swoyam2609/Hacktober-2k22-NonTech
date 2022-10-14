@@ -1,6 +1,6 @@
 We use apps like Uber, Swiggy, and Instagram. Just click the app, book a service, and it's done. It looks so simple from the client's side. In reality, there is a lot of work going on behind the booking.
 Every application has a frontend and a backend. The frontend deals with UI/UX, whereas the backend deals with certain patterns or structures, which are called architecture. 
-Basically, two architectural styles are used: -
+Basically, two architectural styles are used:
 1) Monolithic Architecture
 2) Microservices Architecture
 
@@ -27,7 +27,7 @@ Advantages of Microservices Architecture
 •	Improved fault isolation.
 •	The application starts faster, which makes developers more productive and speeds deployments.
 
-Disadvantages of Microservices Architecture:-
+Disadvantages of Microservices Architecture
 •	Debugging is difficult compared to monolithic architecture.
 •	Due to the inter-services communication over the network, microservices are less secure compared to monolithic applications.    
 •	Data integrity
