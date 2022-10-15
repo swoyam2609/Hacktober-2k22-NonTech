@@ -1,0 +1,35 @@
+We use apps like Uber, Swiggy, and Instagram. Just click the app, book a service, and it's done. It looks so simple from the client's side. In reality, there is a lot of work going on behind the booking.
+Every application has a frontend and a backend. The frontend deals with UI/UX, whereas the backend deals with certain patterns or structures, which are called architecture. 
+Basically, two architectural styles are used:
+1) Monolithic Architecture
+2) Microservices Architecture
+
+Monolithic Architecture 
+The term "monolithic architecture" refers to an application development concept that is assembled using a single build system, in which various components are combined into a single programme running on a single platform. It is a single logical executable. 
+To make any changes to the system, a developer must build and deploy an updated version of the server-side application.
+
+Advantages of Monolithic Architecture
+•	Simple to develop.
+•	Simple to deploy.
+•	Developers need not learn different applications, they can keep their focus on one application.
+
+Disadvantages of Monolithic Architecture
+•	It becomes too large with time and, hence, is difficult to manage.
+•	Monolithic applications can also be difficult to scale when different modules have conflicting resource requirements.
+•	We need to redeploy the whole application, even for a small change.
+
+Microservices Architecture 
+Microservices are an application development concept in which a large application is constructed as a collection of modular services (i.e., loosely coupled modules or components). In simpler terms, microservices are the small services that work together. Each module supports a distinct business objective and communicates with other sets of services via a simple, well-defined interface. 
+The microservice architecture has a major impact on the application's relationship with the database. Each microservice has its own database instead of sharing a single database with other microservices.
+
+Advantages of Microservices Architecture
+•	Microservices enable the continuous delivery and deployment of large, complex applications.
+•	Improved fault isolation.
+•	The application starts faster, which makes developers more productive and speeds deployments.
+
+Disadvantages of Microservices Architecture
+•	Debugging is difficult compared to monolithic architecture.
+•	Due to the inter-services communication over the network, microservices are less secure compared to monolithic applications.    
+•	Data integrity
+
+Both architectures have pros and cons. In the end, it is totally dependent on the requirement/problem statement and the size of the application.
