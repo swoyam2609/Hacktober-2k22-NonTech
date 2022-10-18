@@ -1,0 +1,11 @@
+Starlink is a satellite internet service operated by SpaceX, the company founded in 2002 by Elon Musk.
+
+Starlink primarily focuses on delivering high-speed, low-latency broadband internet in remote and rural locations globally.
+In the US, Starlink's median download speed in the second quarter of 2022 hit just over 62 Mbps, according to the network intelligence firm Ookla.
+That's more than sufficient for one or two people to stream videos, download games or do whatever they want on the internet.
+
+From a consumer perspective, Starlink works with the help of a Starlink kit -- that includes a Starlink satellite dish, WiFi router/power supply, cables and base.
+The Starlink base is designed for ground level installation, or to support a quick-start setup to test your internet connection
+
+Meanwhile, SpaceX hsa partnered with T-Mobile to put an end to mobile dead zones. Using its existing midband spectrum,
+T-Mobile plans to enable cell phones to connect to Starlink satellites, bringing coverage to remote areas with no existing cell service. 
