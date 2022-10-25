@@ -1,0 +1,7 @@
+Microservices are a newer architectural style where an application is composed of many small, independent services. Monolithic architecture is the more traditional approach where an application is a single, large codebase.
+
+There are several benefits to using microservices. First, small services are easier to develop and deploy than a large monolith. Second, each service can be developed and deployed independently, so there is less need for coordination between team members. Finally, a microservices architecture is more resilient to failure because if one service goes down, the other services can continue to function.
+
+There are also some drawbacks to microservices. First, it can be more difficult to debug an issue when an application is composed of many small services. Second, there is more overhead in terms of communication between services.
+
+In general, microservices are a good choice for applications that are expected to grow in size and complexity over time. Monolithic architecture is a good choice for small applications that are not expected to change much over time.
