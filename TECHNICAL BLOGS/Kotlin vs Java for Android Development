@@ -1,0 +1,29 @@
+Now that you know what Kotlin and Java are all about let’s have a look at the key differences between the two programming languages. You need to know all the differences in order to decide on the best option for you when facing the dilemma: Java vs Kotlin. 
+
+1.Interoperability
+
+This feature is Kotlin’s central goal and the main motivation behind the project of its creation. The creators of Kotlin wanted to use the existing knowledge to make all libraries available to Kotlin developers. Mobile developers can write modules in Kotlin that are interoperable with the existing Java code. The two languages can thus work together in one project easily.
+
+2.Conciseness
+
+One of the best things about Kotlin is that – contrary to Java – it offers concise expressions and abstractions. Kotlin makes a developer’s job easier and mitigates the risk of errors. And we all know that brevity also affects productivity, accelerating the software development process. Developing large projects in Kotlin is easier when every line of code can accomplish much more. Kotlin’s syntax is concise, but it’s also readable. It helps to avoid the risks that come with boilerplate code, which is often hard to read and leads to more bugs (and lots of time spent on trying to identify them).
+
+3.Inherent null safety
+
+If there’s one thing known for causing development mistakes in Android, it’s the NullPointerException. In Android, null represents the absence of a value. This sounds simple, but in reality, null can easily destroy an application. Kotlin addresses this problem by offering developing an inherent null safety. This saves teams a lot of time on writing extra code that works around the issue.
+
+4.Performance and compile time
+
+According to JetBrains (the creators of Kotlin), applications written in Kotlin run as fast as their equivalents built with Java. A similar bytecode structure is a reason behind this. Still, Kotlin offers support for inline functions, allowing developers to code using lambdas to run faster than the same code written in Java.
+
+What about the compilation time-critical to developers’ productivity? For clean builds, Java compiles 10-15% faster than Kotlin. But for incremental compilations, Kotlin shows similar or even slightly better results than Java.
+
+5.Checked exceptions
+
+Java includes checked exceptions that are often unnecessary and cause empty hatch blocks. Moreover, nonexistent checked exceptions force developers to waste time weeding through the code to identify nonexistent exceptions. Kotlin removes that problem entirely, thereby minimizes the verbosity, improving type-safety, and saving development teams plenty of time.
+
+6.Community
+
+Java has more than two decades of history on its back, so it’s only natural that it boasts an impressive community and a large number of successful projects. And the larger the community is, the higher the chances are that someone has already solved an issue your development team might be facing.
+
+Even if Kotlin has gained a lot of traction, its community is still rather small when compared to Java’s. Since there are fewer people using Kotlin, the language doesn’t offer as many learning resources or tools. Sourcing Kotlin developers for a project might be more challenging than hiring Java developers, despite the steep learning curve of the language. However, since the language is heavily promoted by Google, it’s likely that more learning resources for Kotlin will emerge soon. Platforms like Udacity or Udemy are full of courses on Kotlin – and some of them are provided by Google. 
